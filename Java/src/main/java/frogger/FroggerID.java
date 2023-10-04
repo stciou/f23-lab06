@@ -10,3 +10,5 @@ public record FroggerID(String firstName,
                      String state,
                      String gender) {
 }
+
+// 利用FroggerID記錄類來封裝個人資訊，簡化了方法簽名並提高了程式的清晰度和可維護性。
